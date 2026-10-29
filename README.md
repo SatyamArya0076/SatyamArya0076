@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Satyam Arya 
-### BCA Student | Data Analytics | Web Development | Machine Learning Enthusiast
+### MCA AI&ML Student | Data Analytics | Web Development | Machine Learning Enthusiast
 
 I'm a motivated Bachelor of Computer Applications (BCA) student passionate about Data Analytics, Machine Learning, and Full Stack Web Development. I enjoy solving real-world problems by building data-driven applications and responsive websites.
 
@@ -7,7 +7,8 @@ Email Me 👉 ✉️ **aryasatyam0665@gmail.com** For Collaboration/Project or A
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **BCA** at Invertis University, Bareilly (2023–2026)
+- 🎓 Pursuing **MCA AI&ML** at Invertis University, Bareilly (2026–2028)
+- 🎓 Completed **BCA** at Invertis University, Bareilly (2023–2026)
 - 📊 Interested in **Data Analytics, Machine Learning, and Web Development**
 - 💻 Skilled in Python, Java, SQL, HTML, CSS, and JavaScript
 - 🌱 Currently learning **Node.js, React.js, MongoDB, and Advanced Data Science**
