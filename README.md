@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Satyam Arya 
-### MCA AI&ML Student | Data Analytics | Web Development | Machine Learning Enthusiast
+### MCA AI&ML Student MCA Student | Artificial Intelligence & Machine Learning | Aspiring Data Analyst | Python | SQL | Power BI | Excelt
 
 I'm a motivated Bachelor of Computer Applications (BCA) student passionate about Data Analytics, Machine Learning, and Full Stack Web Development. I enjoy solving real-world problems by building data-driven applications and responsive websites.
 
