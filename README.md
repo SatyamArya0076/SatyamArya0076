@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Satyam Arya 
-### MCA AI&ML Student MCA Student | Artificial Intelligence & Machine Learning | Aspiring Data Analyst | Python | SQL | Power BI | Excel
+### MCA AI&ML Student| Artificial Intelligence & Machine Learning | Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
 Currently pursuing MCA in Artificial Intelligence & Machine Learning (AI & ML), with a BCA background. Passionate about Data Analytics, Machine Learning, and Full Stack Web Development. Skilled in Python, SQL, Power BI, and Excel, with a strong interest in solving real-world problems through data-driven insights.
 
